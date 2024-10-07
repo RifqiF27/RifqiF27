@@ -2,7 +2,7 @@
 <h3 align="left">As a dedicated web developer and designer, I thrive on the synergy of code, design, and technology to craft visually stunning and highly functional digital experiences. Driven by a passion for continuous learning, I am a self-taught enthusiast committed to expanding my skill set every day. My ultimate goal is to evolve into a proficient full-stack web developer, adept at seamlessly integrating front-end and back-end technologies. With a keen eye for aesthetics and a love for innovative solutions, I am dedicated to creating websites that not only look appealing but also deliver a seamless user experience. Through my journey, I am constantly pushing boundaries and embracing new challenges in the dynamic world of web development.</h3>
 
 - 🌍 I'm based in Indonesia
-- 🧠 I'm currently learning **python**
+- 🧠 I'm currently learning **golang**
 - 📫 How to reach me **rifqifadluloh27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
