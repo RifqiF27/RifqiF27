@@ -49,5 +49,6 @@ As a dedicated web developer and designer, I thrive on the synergy of code, desi
 ---
 
 ## My GitHub Stats:
-![Rifqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifqiF27&show_icons=true&count_private=true&hide=prs&hide_border=true&theme=radical)
+![Rifqi's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RifqiF27&show_icons=true&locale=en&layout=compact)
+<!-- ![Rifqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifqiF27&show_icons=true&count_private=true&hide=prs&hide_border=true&theme=radical) -->
 
